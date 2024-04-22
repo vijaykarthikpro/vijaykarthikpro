@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Karthik Bethapudi.
-- 👀 I’m interested in Augmented Reality and Artificial Intelligence related applications.
-- 🌱 I’m currently learning  Machine Learning,Deep Learning and Data Visualization along with NLP, Data Preprocessing and FullStack Data Scientist projects.
+- 👀 I’m a seasoned senior software engineer with over 5 years of experience in developing scalable and innovative software solutions.
+- 🌱 Proficient in a wide range of technologies, including Next.Js, ReactJs, JavaScript and NodeJS with a focus on fullstack development, database management, data architecture and design principles.
 
 <!---
 vijaykarthikpro/vijaykarthikpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
